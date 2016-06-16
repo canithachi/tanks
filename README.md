@@ -4,24 +4,21 @@
 <b>Creator:</b> Jacob Castro <br>
 <b>Project Requirements:</b> Created Space Shooter Game, along with personalized edits.<br>
 <b>Controls:</b><br>
-Player 1:<br>
-<b>         </b> W- move forward.<br>
-<b>         </b> A- move left.<br>
-<b>         </b> S- move back.<br>
-<b>         </b> D- move right.<br>
-<b>         </b> Space bar- fire.<br>
-Player 2:<br>
-<b>         </b> W- move forward.<br>
-<b>         </b> A- move left.<br>
-<b>         </b> S- move back.<br>
-<b>         </b> D- move right.<br>
-<b>         </b> Space bar- fire.<br>
+<b>Player 1:</b><br>
+W- move forward.<br>
+A- move left.<br>
+S- move back.<br>
+D- move right.<br>
+Space bar- fire.<br>
+<b>Player 2:</b><br>
+Arrow keys to move
+Enter- fire.<br>
 <b>Deliverables:</b> Completed game are tested on a device, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
 <b>Example screenshots of my completed Space Shooter game.</b><br><br>
-![Alt text](https://github.com/jay-cas/Space-shooter/blob/master/Screenshots_SpaceShooter/screenshot.png "English Unfilled Version")
+![Alt text](https://github.com/jay-cas/tanks/blob/master/Screenshots_Tanks/screenshot.png "English Unfilled Version")
 <br><br>
-![Alt text](https://github.com/jay-cas/Space-shooter/blob/master/Screenshots_SpaceShooter/screenshot2.png "English Unfilled Version")
+![Alt text](https://github.com/jay-cas/tanks/blob/master/Screenshots_Tanks/screenshot2.png "English Unfilled Version")
 <br><br>
-![Alt text](https://github.com/jay-cas/Space-shooter/blob/master/Screenshots_SpaceShooter/screenshot3.png "English Unfilled Version")
+![Alt text](https://github.com/jay-cas/tanks/blob/master/Screenshots_Tanks/screenshot3.jpg "English Unfilled Version")
 <br><br>
