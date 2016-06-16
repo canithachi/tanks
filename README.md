@@ -11,7 +11,7 @@ S- move back.<br>
 D- move right.<br>
 Space bar- fire.<br>
 <b>Player 2:</b><br>
-Arrow keys to move
+Arrow keys to move<br>
 Enter- fire.<br>
 <b>Deliverables:</b> Completed game are tested on a device, presented to peers, and uploaded to GitHub for teacher review and grade.   
 <br>
